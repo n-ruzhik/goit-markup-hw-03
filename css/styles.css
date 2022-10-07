@@ -153,6 +153,8 @@ img {
 .hero {
     background-color: var(--bgc-temporary-color);
     text-align: center;
+    padding-top: 94px;
+    padding-bottom: 94px;
 }
 
 .hero-title {
